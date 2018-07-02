@@ -1,2 +1,2 @@
 # Scheme-on-Scheme
-Scheme interpreter on Scheme
+Scheme interpreter written in Scheme
